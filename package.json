@@ -1,0 +1,15 @@
+{
+  "name": "readme_creator",
+  "version": "1.0.0",
+  "description": "A node.js exercise in creating pages from user input via prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
