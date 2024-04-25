@@ -37,6 +37,8 @@ https://p5yc0dr3am3r.github.io/readme_creator/
 
 ![Screenshot of the project](./Screenshot.png)
 
+<video src="./Sequence_1.MP4" controls></video>
+
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
@@ -67,17 +69,17 @@ SOFTWARE.
 Email the author for more information about how to contribute to the project, or how to help fund it in the future.
 
 ## Tests
-File generation
+File generation using node index.js in the terminal.
 
 ## Questions
-For any questions, please contact me at [micahreadmgmt@gmail.com](mailto:micahreadmgmt@gmail.com).
+For any questions, please contact me at [p5yc0dr3am3r@gmail.com](mailto:p5yc0dr3am3r@gmail.com).
 
 ---
 
 ### Created by
 Micah Read
 
-<pre>
+<pre><font size="1">
 8888888b.  888888888 Y88b   d88P  .d8888b.   .d8888b.       8888888b.  8888888b.   .d8888b.         d8888 888b     d888  .d8888b.  8888888b.  
 888   Y88b 888        Y88b d88P  d88P  Y88b d88P  Y88b      888  "Y88b 888   Y88b d88P  Y88b       d88888 8888b   d8888 d88P  Y88b 888   Y88b 
 888    888 888         Y88o88P   888    888 888    888      888    888 888    888      .d88P      d88P888 88888b.d88888      .d88P 888    888 
@@ -86,4 +88,4 @@ Micah Read
 888               888    888     888    888 888    888      888    888 888 T88b   888    888   d88P   888 888  Y8P  888 888    888 888 T88b   
 888        Y88b  d88P    888     Y88b  d88P Y88b  d88P      888  .d88P 888  T88b  Y88b  d88P  d8888888888 888   "   888 Y88b  d88P 888  T88b  
 888         "Y8888P"     888      "Y8888P"   "Y8888P"       8888888P"  888   T88b  "Y8888P"  d88P     888 888       888  "Y8888P"  888   T88b 
-</pre>
+</font></pre>
