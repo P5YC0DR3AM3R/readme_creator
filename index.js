@@ -4,7 +4,8 @@ const inquirer = require("inquirer");
 const licenses = {
   "MIT": {
       badge: "[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)",
-      text: `MIT License
+      text: `
+      MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +27,8 @@ SOFTWARE.`
   },
   "GPLv3": {
       badge: "[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)",
-      text: `                   GNU LESSER GENERAL PUBLIC LICENSE
+      text: `
+      GNU LESSER GENERAL PUBLIC LICENSE
       Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -194,7 +196,8 @@ Library.`
   },
   "GPL": {
       badge: "[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)",
-      text: `GNU GENERAL PUBLIC LICENSE
+      text: `
+      GNU GENERAL PUBLIC LICENSE
       Version 1, February 1989
       
       Copyright (C) 1989 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
@@ -250,7 +253,8 @@ Library.`
   },
   "Unlicense": {
       badge: "[![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)",
-      text: `This is free and unencumbered software released into the public domain.
+      text: `
+      This is free and unencumbered software released into the public domain.
 
       Anyone is free to copy, modify, publish, use, compile, sell, or
       distribute this software, either in source code form or as a compiled
@@ -277,7 +281,8 @@ Library.`
   },
   "Creative Commons": {
       badge: "[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)",
-      text: `Creative Commons Legal Code
+      text: `
+      Creative Commons Legal Code
 
       Attribution 3.0 Unported
       
@@ -726,6 +731,8 @@ ${answers.installation}
 ${answers.usage}
 
 ![Screenshot of the project](${answers.screenshotPath})
+
+<video src="./Sequence_1.MP4" controls></video>
 
 ## License
 ${licenseText}
