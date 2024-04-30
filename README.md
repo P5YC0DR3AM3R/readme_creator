@@ -37,6 +37,8 @@ https://p5yc0dr3am3r.github.io/readme_creator/
 
 ![Screenshot of the project](./Screenshot.png)
 
+https://p5yc0dr3am3r.github.io/readme_creator/Sequence_1.MP4
+
 <video src="./Sequence_1.MP4" controls></video>
 
 ## License
